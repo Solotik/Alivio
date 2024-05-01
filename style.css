@@ -124,7 +124,7 @@ body, h1, h2, header, main, footer, div{
 .cards__information-text{
 	display: flex;
 	justify-content: space-between;
-
+}
 /* footer */
 
 .footer{
